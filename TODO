@@ -1,0 +1,13 @@
+- Phase 1
+  - X <podcast:soundbite>
+- Phase 2
+  - X <podcast:person>
+  - X <podcast:location>
+  - X <podcast:season>
+  - X <podcast:episode>
+  - <podcast:trailer>
+  - X <podcast:license>
+  - X <podcast:alternateEnclosure>
+  - X <podcast:source>
+  - <podcast:integrity>
+  - <podcast:guid>

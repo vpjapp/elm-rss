@@ -17,6 +17,7 @@ suite =
                     , url = "https://elm-pages.com/blog"
                     , lastBuildTime = Time.millisToPosix 1591330166000
                     , generator = Just "elm-pages"
+                    , locked = { locked = True, owner = "owner@example.com" }
                     , items =
                         [ { title = "Generating files with elm-pages"
                           , description = "Learn all about the new generateFiles hook."
@@ -58,6 +59,7 @@ suite =
                     , url = "https://elm-pages.com/blog"
                     , lastBuildTime = Time.millisToPosix 1591330166000
                     , generator = Just "elm-pages"
+                    , locked = { locked = True, owner = "owner@example.com" }
                     , items =
                         [ { title = "Generating files with elm-pages"
                           , description = "Learn all about the new generateFiles hook."
